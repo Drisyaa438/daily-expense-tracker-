@@ -59,7 +59,7 @@ def main():
         elif choice == "3":
             view_summary()
         elif choice == "4":
-            print("Goodbye!")
+            print("See you again!")
             break
         else:
             print("Invalid choice, please try again.\n")
