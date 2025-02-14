@@ -1,0 +1,15 @@
+{
+    "income": 14000.0,
+    "expenses": [
+        {
+            "date": "13/02/2025",
+            "category": "shopping",
+            "amount": 1000.0
+        },
+        {
+            "date": "14/02/2025",
+            "category": "food",
+            "amount": 2500.0
+        }
+    ]
+}
